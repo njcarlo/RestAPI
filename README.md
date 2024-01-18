@@ -11,7 +11,7 @@ This is a simple RESTful API for managing notes. It allows you to create, retrie
 
 ### Installation
 
-1. Clone the repository: git clone https://github.com/your-username/notes-api.git
+1. Clone the repository: git clone [https://github.com/njcarlo/RestAPI.git](https://github.com/njcarlo/RestAPI.git)
 2. Navigate to the project directory: cd notes-api
 3. Install the required dependencies: npm install
 
